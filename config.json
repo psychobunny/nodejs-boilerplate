@@ -1,0 +1,17 @@
+{
+    "base_url": "http://designcreateplay.com",
+    "port": "3000",
+    "use_port": true,
+    "secret": "julian and baris are nibs",
+    "bind_address": "0.0.0.0",
+    "database": "redis",
+    "redis": {
+        "host": "127.0.0.1",
+        "port": "6379",
+        "password": "",
+        "database": "0"
+    },
+    "bcrypt_rounds": 12,
+    "upload_path": "/public/uploads",
+    "relative_path": ""
+}
